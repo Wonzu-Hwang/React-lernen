@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "expo-location": "~14.2.2",
+    "gh-pages": "^4.0.0",
+    "prop-types": "^15.8.1",
+    "react": "17.0.2",
+    "react-native": "0.68.2"
+  }
+}
